@@ -7,6 +7,7 @@ certbot-dns-dnsmadeeasy==3.3.0
 certbot-dns-gehirn==3.3.0
 certbot-dns-google==3.3.0
 certbot-dns-infomaniak==0.2.3
+certbot-dns-ionos==2024.11.9
 certbot-dns-linode==3.3.0
 certbot-dns-luadns==3.3.0
 certbot-dns-nsone==3.3.0
